@@ -1,0 +1,45 @@
++++++++ Run 1 +++++++
+Seed provided with 1 column(s)
+Age Group: 5 categories
+Age Group: 1 unique contexts processed
+Generating samples for Age Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Age Group:  28%|██▊       | 2787/10000 [00:00<00:00, 27865.18it/s]Generating samples for Age Group:  56%|█████▌    | 5623/10000 [00:00<00:00, 28151.47it/s]Generating samples for Age Group:  84%|████████▍ | 8439/10000 [00:00<00:00, 28092.17it/s]Generating samples for Age Group: 100%|██████████| 10000/10000 [00:00<00:00, 28074.55it/s]
+Ethnicity Group: 6 categories
+Ethnicity Group: 5 unique contexts processed
+Generating samples for Ethnicity Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Ethnicity Group:  26%|██▌       | 2564/10000 [00:00<00:00, 25634.16it/s]Generating samples for Ethnicity Group:  52%|█████▏    | 5193/10000 [00:00<00:00, 26014.20it/s]Generating samples for Ethnicity Group:  78%|███████▊  | 7812/10000 [00:00<00:00, 26091.18it/s]Generating samples for Ethnicity Group: 100%|██████████| 10000/10000 [00:00<00:00, 26006.62it/s]
+Time elapsed: 5.31 seconds
++++++++ Run 2 +++++++
+Seed provided with 1 column(s)
+Age Group: 5 categories
+Age Group: 1 unique contexts processed
+Generating samples for Age Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Age Group:  26%|██▌       | 2555/10000 [00:00<00:00, 25540.83it/s]Generating samples for Age Group:  52%|█████▏    | 5204/10000 [00:00<00:00, 26097.23it/s]Generating samples for Age Group:  78%|███████▊  | 7846/10000 [00:00<00:00, 26240.52it/s]Generating samples for Age Group: 100%|██████████| 10000/10000 [00:00<00:00, 26090.02it/s]
+Ethnicity Group: 6 categories
+Ethnicity Group: 5 unique contexts processed
+Generating samples for Ethnicity Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Ethnicity Group:  26%|██▌       | 2573/10000 [00:00<00:00, 25724.01it/s]Generating samples for Ethnicity Group:  52%|█████▏    | 5192/10000 [00:00<00:00, 25993.85it/s]Generating samples for Ethnicity Group:  78%|███████▊  | 7838/10000 [00:00<00:00, 26206.11it/s]Generating samples for Ethnicity Group: 100%|██████████| 10000/10000 [00:00<00:00, 26148.08it/s]
+Time elapsed: 3.83 seconds
++++++++ Run 3 +++++++
+Seed provided with 1 column(s)
+Age Group: 5 categories
+Age Group: 1 unique contexts processed
+Generating samples for Age Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Age Group:  26%|██▌       | 2601/10000 [00:00<00:00, 26009.03it/s]Generating samples for Age Group:  52%|█████▏    | 5212/10000 [00:00<00:00, 26062.41it/s]Generating samples for Age Group:  78%|███████▊  | 7844/10000 [00:00<00:00, 26177.20it/s]Generating samples for Age Group: 100%|██████████| 10000/10000 [00:00<00:00, 26230.70it/s]
+Ethnicity Group: 6 categories
+Ethnicity Group: 5 unique contexts processed
+Generating samples for Ethnicity Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Ethnicity Group:  26%|██▌       | 2560/10000 [00:00<00:00, 25597.71it/s]Generating samples for Ethnicity Group:  52%|█████▏    | 5175/10000 [00:00<00:00, 25920.30it/s]Generating samples for Ethnicity Group:  78%|███████▊  | 7807/10000 [00:00<00:00, 26101.67it/s]Generating samples for Ethnicity Group: 100%|██████████| 10000/10000 [00:00<00:00, 25863.40it/s]
+Time elapsed: 4.18 seconds
++++++++ Run 4 +++++++
+Seed provided with 1 column(s)
+Age Group: 5 categories
+Age Group: 1 unique contexts processed
+Generating samples for Age Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Age Group:  26%|██▌       | 2578/10000 [00:00<00:00, 25775.72it/s]Generating samples for Age Group:  52%|█████▏    | 5195/10000 [00:00<00:00, 26004.59it/s]Generating samples for Age Group:  78%|███████▊  | 7832/10000 [00:00<00:00, 26169.41it/s]Generating samples for Age Group: 100%|██████████| 10000/10000 [00:00<00:00, 26112.93it/s]
+Ethnicity Group: 6 categories
+Ethnicity Group: 5 unique contexts processed
+Generating samples for Ethnicity Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Ethnicity Group:  25%|██▍       | 2461/10000 [00:00<00:00, 24606.27it/s]Generating samples for Ethnicity Group:  49%|████▉     | 4941/10000 [00:00<00:00, 24715.87it/s]Generating samples for Ethnicity Group:  75%|███████▍  | 7458/10000 [00:00<00:00, 24921.37it/s]Generating samples for Ethnicity Group: 100%|█████████▉| 9969/10000 [00:00<00:00, 24993.09it/s]Generating samples for Ethnicity Group: 100%|██████████| 10000/10000 [00:00<00:00, 24896.67it/s]
+Time elapsed: 4.39 seconds
++++++++ Run 5 +++++++
+Seed provided with 1 column(s)
+Age Group: 5 categories
+Age Group: 1 unique contexts processed
+Generating samples for Age Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Age Group:  26%|██▌       | 2583/10000 [00:00<00:00, 25824.85it/s]Generating samples for Age Group:  53%|█████▎    | 5267/10000 [00:00<00:00, 26417.22it/s]Generating samples for Age Group:  80%|███████▉  | 7997/10000 [00:00<00:00, 26815.95it/s]Generating samples for Age Group: 100%|██████████| 10000/10000 [00:00<00:00, 26729.70it/s]
+Ethnicity Group: 6 categories
+Ethnicity Group: 5 unique contexts processed
+Generating samples for Ethnicity Group:   0%|          | 0/10000 [00:00<?, ?it/s]Generating samples for Ethnicity Group:  26%|██▌       | 2560/10000 [00:00<00:00, 25594.78it/s]Generating samples for Ethnicity Group:  52%|█████▏    | 5218/10000 [00:00<00:00, 26169.62it/s]Generating samples for Ethnicity Group:  79%|███████▊  | 7872/10000 [00:00<00:00, 26335.81it/s]Generating samples for Ethnicity Group: 100%|██████████| 10000/10000 [00:00<00:00, 26302.94it/s]
+Time elapsed: 4.33 seconds

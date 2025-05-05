@@ -1,0 +1,9 @@
+++++++ Run 1 ++++++
+Feature: Age Group
+157it [43:51, 16.76s/it]                                                                                                                                                                                           
+Total Generation Time: 2631.87s
+Feature: Ethnicity Group
+157it [44:36, 17.05s/it]                                                                                                                                                                                           
+Total Generation Time: 5308.80s
+
+
